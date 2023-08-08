@@ -7,9 +7,9 @@ Calculates the cross and dot product of two vectors supplied to it.
 3. Run the program using Java -jar CrossDotProduct.jar
 
 ## How to use the program
-1. Once the program is run, it will request two vectors in the command line interface.
+1. Once the program is running, it will request two vectors in the command line interface.
 2. Each vector is entered in the x,y,z format.
-3. Once both vectors are entered, it calculates and displays the cross and dot products and then ends the program.
+3. Once both vectors are entered, it will calculate and display the cross and dot products and then end the program.
 
 ## What the program looks like
 ![alt text](https://github.com/WoodsAvalon/CrossDotProduct/blob/main/CrossDotProduct.jpg)
